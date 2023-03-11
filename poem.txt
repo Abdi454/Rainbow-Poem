@@ -7,6 +7,6 @@ Red
 Orange
 Unicorn
 Purple
-These are the colors of a rainbow and the unicorn
+These are the colors of a rainbow and the unicorn.
 Add Green
 Add Yellow
