@@ -7,3 +7,4 @@ Red
 Orange
 Purple
 These are the colors of a rainbow
+Add Green
